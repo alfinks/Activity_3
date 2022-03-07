@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activity_3</string>
+    <string name="tEmail">Masukan Email</string>
+    <string name="tPassword">Masukan Password</string>
+    <string name="bsignin">Sign-In</string>
+    <string name="txPassword">Password :</string>
+    <string name="tData">Data Anda</string>
+    <string name="tdEmail">Email</string>
+    <string name="tdPassword">Password</string>
+    <string name="tdtampilan">Data</string>
+</resources>
